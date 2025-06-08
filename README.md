@@ -1,4 +1,4 @@
-# mandelbrot
+# Mandelbrot Explorer in Clojure with Seesaw
 
 An interactive Mandelbrot Fractal explorer!
 Use h/j/k/l to pan, u/i to zoom, and n/m to change the number of iterations.
@@ -9,3 +9,6 @@ Use h/j/k/l to pan, u/i to zoom, and n/m to change the number of iterations.
 2. Clone the repo.
 3. Lein run.
 
+## Pictures!
+
+[Starting view](media/home.png)
