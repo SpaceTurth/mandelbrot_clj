@@ -11,4 +11,4 @@ Use h/j/k/l to pan, u/i to zoom, and n/m to change the number of iterations.
 
 ## Pictures!
 
-[Starting view](media/home.png)
+![Starting view of Mandelbrot fractal](media/home.png)
